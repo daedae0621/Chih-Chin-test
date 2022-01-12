@@ -1,0 +1,9 @@
+.box{
+    background-color: #ccc;
+    width: 500px;
+    height: 500px;
+}
+
+canvas{
+    display: none;
+}
