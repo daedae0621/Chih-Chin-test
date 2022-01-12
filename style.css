@@ -7,6 +7,7 @@ body {
   max-width: 800px;
   margin: auto;
   background-color: #f7f6fb;
+  height: 100vh;
 }
 
 nav {
